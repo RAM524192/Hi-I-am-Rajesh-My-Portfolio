@@ -1,0 +1,48 @@
+Rajesh Ram
+[Barasat, Kolkata] | [+91-6290524192] | [ram768154@mail.com] |
+
+
+Professional Summary
+A Student of B-Tech Computer Science graduate with a focus on Data Science, Machine Learning, and Full-Stack Development. Skilled in building technical foundation, Python, JavaScript, SQL, tools like Pandas, Scikit-learn, React,
+Node.Js. Interested In Full stack devlopment data-driven solutions and scalable web applications using modern technologies.
+
+
+Education
+Bachelor of Engineering in Computer Science & Engineering
+Brainware University, [Barasat] | [2026]
+* Ranked in top 25% of the batch.
+* Relevant Coursework: Data Science, Machine Learning, Web Technology, Data Structures, DBMS
+
+
+Technical Skills
+* Programming: Python (Beginner), Java (Intermediate), C++ (DSA)
+* Web Development:
+o Frontend: HTML5, CSS3, JavaScript, Bootstrap, React.js (Beginner)
+o Backend: Node.js, Express.js (Beginner)
+* Databases: MySQL
+* Data Science: NumPy, Matplotlib, Scikit-learn
+* Tools: Jupyter Notebook, VS Code, Figma (Beginner)
+
+
+Certifications
+* The Complete Web Development Bootcamp | Udemy | 2024
+* Frontend Web Development with React | Coursera | 2025
+
+
+Projects
+1. E-Commerce Website
+o Developed a responsive e-commerce platform with modern UI.
+o Tech Stack: HTML5, JavaScript, Bootstrap
+2. Weather App
+o Built a real-time weather application using OpenWeather API.
+o Tech Stack: JavaScript, CSS, API Integration
+
+
+Extracurricular Activities
+* Mini Projects: Completed 10+ projects demonstrating problem-solving skills.
+* Full Stack Exhibition: Led a team of 10+ volunteers for 15+ college exhibitions.
+
+
+Additional Details
+* Languages: English (Fluent), Hindi, Bengali
+* Hobbies: Open-source contributions
